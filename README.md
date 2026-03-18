@@ -1,5 +1,5 @@
 【版本名称】
-三峡大学科研全自动收割机 V12.4（CNKI + ScienceDirect 文献信息批量采集与 Word 报告生成）
+三峡大学科研全自动收割机（CNKI + ScienceDirect 文献信息批量采集与 Word 报告生成）
 
 作者：yt
 
